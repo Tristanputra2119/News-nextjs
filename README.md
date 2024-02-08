@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## project information
+This is a nextjs study case, for testing strapi cms.
+
 ## Getting Started
 
 First, run the development server:
